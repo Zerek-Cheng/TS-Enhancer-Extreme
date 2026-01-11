@@ -23,6 +23,7 @@ android {
         versionName = verName
     }
 
+
     buildTypes {
         debug {
             versionNameSuffix = "-debug"
